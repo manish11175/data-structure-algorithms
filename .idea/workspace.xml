@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee3094d0-d5a7-4b91-8408-d842f2a21bf3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure-and-algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/circular_linked_list/CircularLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/circular_linked_list/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/circular_linked_list/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/doubly_linked_list/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/doubly_linked_list/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/doubly_linked_list/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preparations/interview_bit/Question262.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preparations/interview_bit/Question263.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preparations/interview_bit/Question264.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2i8zQCdiX2Fw4sS56ZeSoFtNtCx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showURL" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.data_structure.circular_linked_list.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.linked_list.Main" />
+      <module name="data-structure-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.linked_list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question262" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preparations.interview_bit.Question262" />
+      <module name="data-structure-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="preparations.interview_bit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question263" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preparations.interview_bit.Question263" />
+      <module name="data-structure-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="preparations.interview_bit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="data_structure.circular_linked_list.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.circular_linked_list.Main" />
+      <module name="data-structure-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.circular_linked_list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="data_structure.doubly_linked_list.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.doubly_linked_list.Main" />
+      <module name="data-structure-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.doubly_linked_list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.data_structure.circular_linked_list.Main" />
+        <item itemvalue="Application.data_structure.doubly_linked_list.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Question263" />
+        <item itemvalue="Application.Question262" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee3094d0-d5a7-4b91-8408-d842f2a21bf3" name="Changes" comment="" />
+      <created>1718886977666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718886977666</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/preparations/interview_bit/Question262.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/preparations/interview_bit/Question262.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/preparations/interview_bit/Question262.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/preparations/interview_bit/Question262.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/preparations/interview_bit/Question262.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/preparations/interview_bit/Question262.java</url>
+          <line>43</line>
+          <properties class="preparations.interview_bit.Question262" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
