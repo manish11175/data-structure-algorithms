@@ -32,6 +32,9 @@ public class Main {
         linkedList.remove(3);
         linkedList.printLinkedList();
 
+        linkedList.insertR(1,0);
+        linkedList.insertR(342,3);
+        linkedList.printLinkedList();
         System.out.println("Head "+linkedList.getHead().val);
         System.out.println("Tail "+linkedList.getTail().val);
 

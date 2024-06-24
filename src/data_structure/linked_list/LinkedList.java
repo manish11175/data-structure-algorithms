@@ -152,4 +152,29 @@ public class LinkedList<T> {
         return temp2;
     }
 
+
+    public void insertR(T val,int index){
+        if(index==0){
+            Node newNode= new Node(val,head);
+            head=newNode;
+            return;
+        }
+        Node node = head;
+        helper(node,val,index,1);
+    }
+
+    private void helper(Node node, T val, int index, int i) {
+        if(i==index){
+            Node newNode = new Node(val,node.next);
+            node.next=newNode;
+            return;
+        }
+        if(node==null){
+            throw new IndexOutOfBoundsException("Given index is out of range");
+        }
+        node = node.next;
+        i+=1;
+        helper(node,val,index,i);
+    }
+
 }

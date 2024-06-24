@@ -5,25 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee3094d0-d5a7-4b91-8408-d842f2a21bf3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-structure-and-algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/circular_linked_list/CircularLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/circular_linked_list/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/circular_linked_list/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/doubly_linked_list/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/doubly_linked_list/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/doubly_linked_list/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preparations/interview_bit/Question262.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preparations/interview_bit/Question263.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preparations/interview_bit/Question264.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/linked_list/DoublyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/linked_list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/linked_list/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/linked_list/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/linked_list/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.data_structure.circular_linked_list.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data_structure.linked_list.Main" />
       <module name="data-structure-and-algorithms" />
@@ -125,9 +110,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.data_structure.circular_linked_list.Main" />
         <item itemvalue="Application.data_structure.doubly_linked_list.Main" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Question263" />
         <item itemvalue="Application.Question262" />
       </list>
