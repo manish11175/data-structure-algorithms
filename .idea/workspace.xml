@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee3094d0-d5a7-4b91-8408-d842f2a21bf3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list_questions/CyclicLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list_questions/HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list_questions/RemoveDuplicateFromSortedLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/linked_list/DoublyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/circular_linked_list/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/circular_linked_list/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data_structure/linked_list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/linked_list/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/linked_list/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/linked_list/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/linked_list/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/linked_list/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +45,33 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.HappyNumber">
+    <configuration name="CyclicLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.linked_list_questions.CyclicLL" />
+      <module name="data-structure-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.linked_list_questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.linked_list_questions.HappyNumber" />
+      <module name="data-structure-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.linked_list_questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data_structure.linked_list.Main" />
       <module name="data-structure-and-algorithms" />
@@ -56,25 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question262" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="preparations.interview_bit.Question262" />
+    <configuration name="RemoveDuplicateFromSortedLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.linked_list_questions.RemoveDuplicateFromSortedLinkedList" />
       <module name="data-structure-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="preparations.interview_bit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question263" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="preparations.interview_bit.Question263" />
-      <module name="data-structure-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="preparations.interview_bit.*" />
+          <option name="PATTERN" value="data_structure.linked_list_questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data_structure.doubly_linked_list.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.doubly_linked_list.Main" />
-      <module name="data-structure-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_structure.doubly_linked_list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HappyNumber" />
+        <item itemvalue="Application.CyclicLL" />
+        <item itemvalue="Application.RemoveDuplicateFromSortedLinkedList" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.data_structure.circular_linked_list.Main" />
-        <item itemvalue="Application.data_structure.doubly_linked_list.Main" />
-        <item itemvalue="Application.Question263" />
-        <item itemvalue="Application.Question262" />
       </list>
     </recent_temporary>
   </component>

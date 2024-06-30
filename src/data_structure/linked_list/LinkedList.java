@@ -57,12 +57,12 @@ public class LinkedList<T> {
      }
      public void printLinkedList(){
         Node temp=head;
-         System.out.print("[");
+         System.out.print("[ Start ");
         while (temp!=null){
-            System.out.print(temp.val+", ");
+            System.out.print(temp.val+"-> ");
             temp=temp.next;
         }
-         System.out.println("]");
+         System.out.println("End ]");
      }
 
      public void insert(int index,T val){
@@ -177,4 +177,31 @@ public class LinkedList<T> {
         helper(node,val,index,i);
     }
 
+    public void setHead(Node head) {
+        this.head = head;
+    }
+
+    public void setTail(Node tail) {
+        this.tail = tail;
+    }
+
+    public static int getSize() {
+        return size;
+    }
+
+    public static void setSize(int size) {
+        LinkedList.size = size;
+    }
+
+    public Node getNode(int index) {
+        if(index>=size()){
+            throw new IndexOutOfBoundsException();
+        }
+        Node node = head;
+        while(index!=0){
+            node= node.next;
+            index-=1;
+        }
+        return node;
+    }
 }
