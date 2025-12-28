@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee3094d0-d5a7-4b91-8408-d842f2a21bf3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list_questions/CyclicLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list_questions/HappyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list_questions/RemoveDuplicateFromSortedLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list_questions/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list_questions/ReOrderLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list_questions/ReverseLinkedlist2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/tree/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preparations/leetcode/NumberToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preparations/leetcode/PostOrderTraversalOnTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preparations/leetcode/Problem101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preparations/leetcode/Problem17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preparations/leetcode/Problem22.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/circular_linked_list/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/circular_linked_list/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data_structure/linked_list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/linked_list/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/linked_list/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/linked_list/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +36,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2i8zQCdiX2Fw4sS56ZeSoFtNtCx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -39,19 +47,30 @@
     <option name="showMembers" value="true" />
     <option name="showURL" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FirstNegativeInEveryWindowOfSizeK.executor": "Run",
+    "Application.LongestSubArrayOfSumK.executor": "Run",
+    "Application.LongestSubstringOfUniqueCharacter.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaximumOfAllSubArrayOfSizeK.executor": "Run",
+    "Application.MaximumSumSubArrayOfSizeK.executor": "Run",
+    "Application.MinCostToReachTop.executor": "Run",
+    "Application.MinimumWindowSubstring.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/manish/data-structure-and-algorithms"
   }
-}</component>
-  <component name="RunManager" selected="Application.HappyNumber">
-    <configuration name="CyclicLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.linked_list_questions.CyclicLL" />
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="LongestSubArrayOfSumK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sliding_window.variable_sized_sliding_windoe.LongestSubArrayOfSumK" />
       <module name="data-structure-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.linked_list_questions.*" />
+          <option name="PATTERN" value="sliding_window.variable_sized_sliding_windoe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.linked_list_questions.HappyNumber" />
+    <configuration name="LongestSubstringOfUniqueCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sliding_window.variable_sized_sliding_windoe.LongestSubstringOfUniqueCharacter" />
       <module name="data-structure-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.linked_list_questions.*" />
+          <option name="PATTERN" value="sliding_window.variable_sized_sliding_windoe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.linked_list.Main" />
+      <option name="MAIN_CLASS_NAME" value="data_structure.heap.Main" />
       <module name="data-structure-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.linked_list.*" />
+          <option name="PATTERN" value="data_structure.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicateFromSortedLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.linked_list_questions.RemoveDuplicateFromSortedLinkedList" />
+    <configuration name="MaximumOfAllSubArrayOfSizeK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sliding_window.MaximumOfAllSubArrayOfSizeK" />
       <module name="data-structure-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.linked_list_questions.*" />
+          <option name="PATTERN" value="sliding_window.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data_structure.circular_linked_list.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.circular_linked_list.Main" />
+    <configuration name="MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sliding_window.variable_sized_sliding_windoe.MinimumWindowSubstring" />
       <module name="data-structure-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.circular_linked_list.*" />
+          <option name="PATTERN" value="sliding_window.variable_sized_sliding_windoe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HappyNumber" />
-        <item itemvalue="Application.CyclicLL" />
-        <item itemvalue="Application.RemoveDuplicateFromSortedLinkedList" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.data_structure.circular_linked_list.Main" />
+        <item itemvalue="Application.MinimumWindowSubstring" />
+        <item itemvalue="Application.LongestSubstringOfUniqueCharacter" />
+        <item itemvalue="Application.LongestSubArrayOfSumK" />
+        <item itemvalue="Application.MaximumOfAllSubArrayOfSizeK" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +189,61 @@
           <url>file://$PROJECT_DIR$/src/preparations/interview_bit/Question262.java</url>
           <line>44</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/preparations/leetcode/NumberToRoman.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/preparations/leetcode/NumberToRoman.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/preparations/leetcode/NumberToRoman.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/preparations/leetcode/NumberToRoman.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/preparations/leetcode/NumberToRoman.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sliding_window/variable_sized_sliding_windoe/LongestSubstringOfUniqueCharacter.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sliding_window/variable_sized_sliding_windoe/LongestSubstringOfUniqueCharacter.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sliding_window/variable_sized_sliding_windoe/LongestSubstringOfUniqueCharacter.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sliding_window/variable_sized_sliding_windoe/MinimumWindowSubstring.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sliding_window/variable_sized_sliding_windoe/MinimumWindowSubstring.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sliding_window/variable_sized_sliding_windoe/MinimumWindowSubstring.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/preparations/interview_bit/Question262.java</url>

@@ -204,4 +204,14 @@ public class LinkedList<T> {
         }
         return node;
     }
+
+    public static void print(Node node){
+        Node temp=node;
+        System.out.print("[ Start ");
+        while (temp!=null){
+            System.out.print(temp.getVal()+"-> ");
+            temp=temp.getNext();
+        }
+        System.out.println("End ]");
+    }
 }
