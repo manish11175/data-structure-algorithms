@@ -4,19 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee3094d0-d5a7-4b91-8408-d842f2a21bf3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list_questions/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list_questions/ReOrderLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/linked_list_questions/ReverseLinkedlist2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/tree/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preparations/leetcode/NumberToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preparations/leetcode/PostOrderTraversalOnTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preparations/leetcode/Problem101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preparations/leetcode/Problem17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preparations/leetcode/Problem22.java" afterDir="false" />
+    <list default="true" id="ee3094d0-d5a7-4b91-8408-d842f2a21bf3" name="Changes" comment="Tree traversal">
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/stack/AreaOfHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/stack/NextNearestGreaterElementRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/stack/NextNearestGreaterLeftElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/stack/NextNearestSmallerElementRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/stack/NextNearestSmallerLeftElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/stack/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/stack/StockSpanProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/string_matching/KMPAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/string_matching/KmpAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/string_matching/LPSArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/string_matching/LpsArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/string_matching/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/string_matching/Q_Repeated_String_Match.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/linked_list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/linked_list/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;manish11175&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/manish11175/data-structure-algorithms.git&quot;,
+    &quot;accountId&quot;: &quot;7f18d77d-8796-4405-ae98-06da0dc78087&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -49,14 +64,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AreaOfHistogram.executor": "Run",
     "Application.FirstNegativeInEveryWindowOfSizeK.executor": "Run",
+    "Application.LPSArray2.executor": "Debug",
     "Application.LongestSubArrayOfSumK.executor": "Run",
     "Application.LongestSubstringOfUniqueCharacter.executor": "Run",
+    "Application.LpsArray.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaximumOfAllSubArrayOfSizeK.executor": "Run",
     "Application.MaximumSumSubArrayOfSizeK.executor": "Run",
     "Application.MinCostToReachTop.executor": "Run",
     "Application.MinimumWindowSubstring.executor": "Run",
+    "Application.NextNearestGreaterElement.executor": "Run",
+    "Application.NextNearestGreaterElementRight.executor": "Run",
+    "Application.NextNearestGreaterLeftElement.executor": "Run",
+    "Application.NextNearestSmallerElementRight.executor": "Run",
+    "Application.NextNearestSmallerLeftElement.executor": "Run",
+    "Application.Q_Repeated_String_Match.executor": "Run",
+    "Application.StockSpanProblem.executor": "Run",
+    "Application.data_structure_2026.string_matching.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -64,13 +90,18 @@
     "last_opened_file_path": "E:/manish/data-structure-and-algorithms"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="LongestSubArrayOfSumK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sliding_window.variable_sized_sliding_windoe.LongestSubArrayOfSumK" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="data_structure_2026.stack" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KMPAlgorithm">
+    <configuration name="AreaOfHistogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure_2026.stack.AreaOfHistogram" />
       <module name="data-structure-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sliding_window.variable_sized_sliding_windoe.*" />
+          <option name="PATTERN" value="data_structure_2026.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstringOfUniqueCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sliding_window.variable_sized_sliding_windoe.LongestSubstringOfUniqueCharacter" />
+    <configuration name="KMPAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure_2026.string_matching.KMPAlgorithm" />
       <module name="data-structure-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sliding_window.variable_sized_sliding_windoe.*" />
+          <option name="PATTERN" value="data_structure_2026.string_matching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.heap.Main" />
+    <configuration name="LPSArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure_2026.string_matching.LPSArray2" />
       <module name="data-structure-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.heap.*" />
+          <option name="PATTERN" value="data_structure_2026.string_matching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumOfAllSubArrayOfSizeK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sliding_window.MaximumOfAllSubArrayOfSizeK" />
+    <configuration name="NextNearestSmallerLeftElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure_2026.stack.NextNearestSmallerLeftElement" />
       <module name="data-structure-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sliding_window.*" />
+          <option name="PATTERN" value="data_structure_2026.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sliding_window.variable_sized_sliding_windoe.MinimumWindowSubstring" />
+    <configuration name="StockSpanProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure_2026.stack.StockSpanProblem" />
       <module name="data-structure-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sliding_window.variable_sized_sliding_windoe.*" />
+          <option name="PATTERN" value="data_structure_2026.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MinimumWindowSubstring" />
-        <item itemvalue="Application.LongestSubstringOfUniqueCharacter" />
-        <item itemvalue="Application.LongestSubArrayOfSumK" />
-        <item itemvalue="Application.MaximumOfAllSubArrayOfSizeK" />
+        <item itemvalue="Application.KMPAlgorithm" />
+        <item itemvalue="Application.LPSArray2" />
+        <item itemvalue="Application.AreaOfHistogram" />
+        <item itemvalue="Application.StockSpanProblem" />
+        <item itemvalue="Application.NextNearestSmallerLeftElement" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +180,23 @@
       <option name="presentableId" value="Default" />
       <updated>1718886977666</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tree traversal">
+      <option name="closed" value="true" />
+      <created>1766911986260</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766911986260</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tree traversal">
+      <option name="closed" value="true" />
+      <created>1766911996457</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766911996457</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +209,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tree traversal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tree traversal" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -244,6 +296,26 @@
           <url>file://$PROJECT_DIR$/src/sliding_window/variable_sized_sliding_windoe/MinimumWindowSubstring.java</url>
           <line>36</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_structure_2026/string_matching/Q_Repeated_String_Match.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_structure_2026/string_matching/Q_Repeated_String_Match.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_structure_2026/string_matching/Q_Repeated_String_Match.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_structure_2026/string_matching/Q_Repeated_String_Match.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/preparations/interview_bit/Question262.java</url>
