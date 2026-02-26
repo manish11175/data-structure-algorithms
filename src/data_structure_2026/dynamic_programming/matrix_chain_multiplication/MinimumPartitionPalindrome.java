@@ -52,7 +52,7 @@ public class MinimumPartitionPalindrome {
         return dp[i][j]=min;
     }
 
-    private static boolean isPalindrome(String str, int i, int j) {
+    public static boolean isPalindrome(String str, int i, int j) {
         while(i<j){
             if(str.charAt(i)==str.charAt(j)){
                 j-=1;

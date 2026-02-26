@@ -98,6 +98,7 @@ public class Main {
         Consumer<Object> print = System.out::println;
 
        print.accept(IntStream.range(1,1_000_1000).filter(intPredicate).count());
+        System.out.println("dd  ");
     }
 
 }
