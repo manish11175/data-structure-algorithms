@@ -4,31 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee3094d0-d5a7-4b91-8408-d842f2a21bf3" name="Changes" comment="DP and Recursion">
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/basic/KthSymbolGrammar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/basic/PrintAllSubset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/basic/Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/bt/AllPartitionPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/bt/LargestNumberAfterNswap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/bt/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/bt/NDigitIncreasingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/bt/PermutationString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/bt/RatInMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/bt/WordBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/revision/dp/knapsack01/KnapsackO1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/revision/dp/knapsack01/Mcm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/revision/dp/knapsack01/UnBoundedKnapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/revision/dp/knapsack01/longestCommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/revision/stack/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/revision/stack/StackUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/revision/stack/StockSpan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/revision/string_matching/KmP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/revision/string_matching/Lps.java" afterDir="false" />
+    <list default="true" id="ee3094d0-d5a7-4b91-8408-d842f2a21bf3" name="Changes" comment="Backtracking">
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/bt/KeyBoardLettterCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/bt/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/bt/Suduko.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/bt/SudukoSolver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure_2026/dynamic_programming/matrix_chain_multiplication/MinimumPartitionPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_2026/dynamic_programming/matrix_chain_multiplication/MinimumPartitionPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure_2026/recursion/basic/TowerOfHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/basic/TowerOfHanoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure_2026/string_matching/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_2026/string_matching/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_learnings/java_8/function_interface/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_learnings/java_8/function_interface/practice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_2026/recursion/bt/AllPartitionPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_2026/recursion/bt/AllPartitionPalindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +40,10 @@
     &quot;accountId&quot;: &quot;a8ffc0de-4241-4a00-acbe-a2918b3537db&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.11/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.11/lib/src.zip!/java.base/java/lang/StringBuilder.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -87,6 +73,7 @@
     "Application.EqualSumPartition.executor": "Run",
     "Application.FirstNegativeInEveryWindowOfSizeK.executor": "Run",
     "Application.KMPAlgorithm.executor": "Run",
+    "Application.KeyBoardLettterCombination.executor": "Run",
     "Application.KmP.executor": "Run",
     "Application.KnapsackO1.executor": "Debug",
     "Application.KnapsackP.executor": "Run",
@@ -114,6 +101,7 @@
     "Application.MinimumSubsetSumDifference.executor": "Run",
     "Application.MinimumWindowSubstring.executor": "Run",
     "Application.NDigitIncreasingNumber.executor": "Run",
+    "Application.NQueens.executor": "Run",
     "Application.NextNearestGreaterElement.executor": "Run",
     "Application.NextNearestGreaterElementRight.executor": "Run",
     "Application.NextNearestGreaterLeftElement.executor": "Run",
@@ -140,6 +128,7 @@
     "Application.StockSpanProblem.executor": "Run",
     "Application.SubsetSum.executor": "Run",
     "Application.Substring.executor": "Run",
+    "Application.Suduko.executor": "Run",
     "Application.TowerOfHanoi.executor": "Run",
     "Application.UnBoundedKnapsack.executor": "Run",
     "Application.UnboundKnapsack.executor": "Run",
@@ -156,7 +145,7 @@
     "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/manish/data-structure-and-algorithms",
+    "last_opened_file_path": "C:/Users/mchau/Desktop/strimzi-kafka-operator",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -168,7 +157,7 @@
       <recent name="data_structure_2026.stack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WordBreak">
+  <component name="RunManager" selected="Application.Suduko">
     <configuration name="AllPartitionPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data_structure_2026.recursion.bt.AllPartitionPalindrome" />
       <module name="data-structure-and-algorithms" />
@@ -182,8 +171,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestNumberAfterNswap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure_2026.recursion.bt.LargestNumberAfterNswap" />
+    <configuration name="KeyBoardLettterCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure_2026.recursion.bt.KeyBoardLettterCombination" />
       <module name="data-structure-and-algorithms" />
       <extension name="coverage">
         <pattern>
@@ -195,8 +184,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NDigitIncreasingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure_2026.recursion.bt.NDigitIncreasingNumber" />
+    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure_2026.recursion.bt.NQueens" />
       <module name="data-structure-and-algorithms" />
       <extension name="coverage">
         <pattern>
@@ -208,8 +197,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RatInMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure_2026.recursion.bt.RatInMaze" />
+    <configuration name="Suduko" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure_2026.recursion.bt.Suduko" />
       <module name="data-structure-and-algorithms" />
       <extension name="coverage">
         <pattern>
@@ -236,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WordBreak" />
+        <item itemvalue="Application.Suduko" />
         <item itemvalue="Application.AllPartitionPalindrome" />
-        <item itemvalue="Application.RatInMaze" />
-        <item itemvalue="Application.NDigitIncreasingNumber" />
-        <item itemvalue="Application.LargestNumberAfterNswap" />
+        <item itemvalue="Application.NQueens" />
+        <item itemvalue="Application.KeyBoardLettterCombination" />
+        <item itemvalue="Application.WordBreak" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771773251555</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Backtracking">
+      <option name="closed" value="true" />
+      <created>1772089878573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772089878573</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,7 +300,8 @@
     <MESSAGE value="Tree traversal" />
     <MESSAGE value="Stack done" />
     <MESSAGE value="DP and Recursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="DP and Recursion" />
+    <MESSAGE value="Backtracking" />
+    <option name="LAST_COMMIT_MESSAGE" value="Backtracking" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -658,6 +656,36 @@
           <line>19</line>
           <option name="timeStamp" value="171" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_structure_2026/recursion/bt/NQueens.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_structure_2026/recursion/bt/NQueens.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_structure_2026/recursion/bt/NQueens.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_structure_2026/recursion/bt/NQueens.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_structure_2026/recursion/bt/NQueens.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_structure_2026/recursion/bt/Suduko.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/preparations/interview_bit/Question262.java</url>
           <line>43</line>
@@ -678,5 +706,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="res.get(2)" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class AllPartitionPalindrome {
     public static void main(String[] args) {
-        String str = "aaba";
+        String str = "abbab";
         ArrayList<String> res= new ArrayList<>();
         printAll(str,0,res);
     }
